@@ -1,4 +1,4 @@
-## Hi there, Dhruv this side.
+## Hi, I'm Dhruv.
 ### I'm a student learning and experimenting with web-dev and AI technologies.
 
 <!--
