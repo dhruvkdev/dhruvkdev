@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there, Dhruv this side.
+### I'm a student learning and experimenting with web-dev and AI technologies.
 
 <!--
 **dhruvkdev/dhruvkdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
