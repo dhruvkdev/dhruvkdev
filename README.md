@@ -1,6 +1,15 @@
 # 💫 About Me
 
-👋 I’m currently working on sandbox environments and cloud-based solutions, alongside web and software development projects.
+I’m a Computer Science student at National Institute of Technology Silchar, working on web development and exploring how scalable backend systems actually behave under load (preferably before they catch fire in production).
+
+I mostly work across the full stack — building frontend interfaces and backend services, with a focus on performance and clean system design. I like systems that are fast, reliable, and don’t require “just restart the server” as a debugging strategy.
+
+Alongside web development, I’ve been getting into low-level programming with C++. I recently built my own version control system, *Minigit*, which was a great way to understand how Git works internally — and also why Git messages sometimes feel like ancient spells.
+
+I also do Competitive Programming to improve my problem-solving skills and stay consistent with DSA practice. It’s basically a structured way of convincing myself that one more binary search problem won’t hurt.
+
+Currently, I’m exploring AI/ML and trying to understand how it can be applied in real systems, beyond just putting “AI-powered” in the project title.
+
 
 ---
 
